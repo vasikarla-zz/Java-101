@@ -1,4 +1,4 @@
-package com.learnings.designpatterns.factorypattern;
+package com.learnings.designpatterns.creational.internacefactorypattern;
 
 /**
  * A factory for creating Animal objects.
